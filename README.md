@@ -13,4 +13,4 @@
 
 So here in above command, you have to mention the image path
 
-###### IMP: Once image window opens just 'Double click' on the color for the response
+<b> IMP: Once image window opens just 'Double click' on the color for the response </b>
