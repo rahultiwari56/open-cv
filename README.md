@@ -3,8 +3,9 @@
 ##### Install the required libraries
 >> pip install -r requirements.txt
 <p align="center">
-######                OR
+                <b>OR</br>
 </p>
+
 >> pip install numpy opencv-python pandas
 
 ##### Run the code
